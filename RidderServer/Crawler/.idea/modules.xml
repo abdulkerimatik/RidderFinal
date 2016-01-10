@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FeedDomain/FeedDomain.iml" filepath="$PROJECT_DIR$/FeedDomain/FeedDomain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FeedlyConnector.iml" filepath="$PROJECT_DIR$/FeedlyConnector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MongoConnector/MongoConnector.iml" filepath="$PROJECT_DIR$/MongoConnector/MongoConnector.iml" />
+    </modules>
+  </component>
+</project>

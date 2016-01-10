@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ridder</string>
+    <string name="action_home">Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Log Out</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

@@ -1,0 +1,1 @@
+pscp FeedlyConnector.jar root@46.101.152.220:/usr/ridder/crawler/FeedlyConnector.jar
